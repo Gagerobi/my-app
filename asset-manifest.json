@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/logdeploy/static/css/main.cb52b221.css",
+    "main.js": "/logdeploy/static/js/main.6cfd5b0b.js",
+    "static/js/787.d4aba7ab.chunk.js": "/logdeploy/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/logdeploy/index.html",
+    "main.cb52b221.css.map": "/logdeploy/static/css/main.cb52b221.css.map",
+    "main.6cfd5b0b.js.map": "/logdeploy/static/js/main.6cfd5b0b.js.map",
+    "787.d4aba7ab.chunk.js.map": "/logdeploy/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb52b221.css",
+    "static/js/main.6cfd5b0b.js"
+  ]
+}
